@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 
-- 💻 I'm a **Software Engineer** with over **8 years of experience** in designing and developing **scalable ERP solutions**.
+- 💻 I'm a **Software Engineer** with over **10 years of experience** in designing and developing **scalable ERP solutions**.
 - 🌐 Skilled in **C#/.NET development**, **cloud computing (AWS, Azure)**, and **microservices architecture**.
 - 🛠️ Proficient in **monolithic, SOA**, and **microservices architectures** with expertise in **design patterns** and **clean architecture principles**.
 - 🔍 I’m passionate about **learning new technologies**, optimizing processes, and implementing **best practices** to deliver high-quality software solutions.
